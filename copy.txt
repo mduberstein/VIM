@@ -1,0 +1,7 @@
+In file copy.txt
+This is line    hin yellow
+This is line    hin yellow
+    This is third line.
+
+ 
+That is , second line.

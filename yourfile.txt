@@ -1,0 +1,21 @@
+This is line    hin yellow
+    This is third line.
+
+ 
+That is , second line.
+Thais are new lines.
+This is second line.
+My $placement , second line test test test
+
+From file copy.txtcopy.txt
+This is line    hin yellow
+
+This is line    hin yellow
+    This is third line.
+
+This is line    hin yellow
+    This is third line.
+
+ 
+That is , second line.
+
